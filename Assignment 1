@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Love</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #007bff; /* Blue color */
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Love</h1>
+    </header>
+    <div class="container">
+        <img src="image.jpg" alt="Mercy">
+        <h2>About Mercy</h2>
+        <p>Mercy is a beacon of light in a dark world, spreading joy and kindness wherever she goes.</p>
+        <h2>Why I Admire Mercy</h2>
+        <p>Her compassion knows no bounds, and her smile brightens even the gloomiest of days.</p>
+    </div>
+</body>
+</html>
